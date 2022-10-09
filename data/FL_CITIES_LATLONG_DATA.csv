@@ -1,0 +1,535 @@
+ID,STATE_CODE,STATE_NAME,CITY,COUNTY,LATITUDE,LONGITUDE
+3665,FL,Florida,Alachua,Alachua,29.796996,-82.480531
+3666,FL,Florida,Alford,Jackson,30.714106,-85.34838
+3667,FL,Florida,"Altamonte Springs",Seminole,28.662728,-81.371908
+3668,FL,Florida,Altha,Calhoun,30.531882,-85.17043
+3669,FL,Florida,Altoona,Lake,29.021935,-81.632322
+3670,FL,Florida,Alturas,Polk,27.871389,-81.715278
+3671,FL,Florida,Alva,Lee,26.714657,-81.635055
+3672,FL,Florida,"Anna Maria",Manatee,27.530833,-82.733611
+3673,FL,Florida,Anthony,Marion,29.304785,-82.126157
+3674,FL,Florida,Apalachicola,Franklin,29.725465,-85.006264
+3675,FL,Florida,"Apollo Beach",Hillsborough,27.771553,-82.410199
+3676,FL,Florida,Apopka,Orange,28.661865,-81.485149
+3677,FL,Florida,Arcadia,"De Soto",27.1861,-81.8095
+3678,FL,Florida,Archer,Alachua,29.559738,-82.51084
+3679,FL,Florida,Argyle,Walton,30.719444,-86.044444
+3680,FL,Florida,Aripeka,Pasco,28.431944,-82.664444
+3681,FL,Florida,Astatula,Lake,28.708754,-81.719473
+3682,FL,Florida,Astor,Lake,29.165031,-81.539929
+3683,FL,Florida,"Atlantic Beach",Duval,30.348258,-81.415866
+3684,FL,Florida,Auburndale,Polk,28.072443,-81.812234
+3685,FL,Florida,"Avon Park",Highlands,27.600085,-81.501486
+3686,FL,Florida,"Babson Park",Polk,27.831698,-81.534221
+3687,FL,Florida,Bagdad,"Santa Rosa",30.598611,-87.031111
+3688,FL,Florida,Baker,Okaloosa,30.831569,-86.677015
+3689,FL,Florida,Balm,Hillsborough,27.759167,-82.261389
+3690,FL,Florida,Barberville,Volusia,29.186944,-81.421111
+3691,FL,Florida,Bartow,Polk,27.895664,-81.812684
+3692,FL,Florida,Bascom,Jackson,30.951365,-85.09722
+3693,FL,Florida,"Bay Pines",Pinellas,27.813889,-82.778333
+3694,FL,Florida,Bell,Gilchrist,29.78373,-82.871106
+3695,FL,Florida,"Belle Glade","Palm Beach",26.684289,-80.672392
+3696,FL,Florida,"Belleair Beach",Pinellas,27.9229,-82.8413
+3697,FL,Florida,Belleview,Marion,29.052,-82.042
+3698,FL,Florida,"Beverly Hills",Citrus,28.9166,-82.4583
+3699,FL,Florida,"Big Pine Key",Monroe,24.679996,-81.362029
+3700,FL,Florida,Blountstown,Calhoun,30.4394,-85.062022
+3701,FL,Florida,"Boca Grande",Lee,26.748611,-82.262222
+3702,FL,Florida,"Boca Raton","Palm Beach",26.3583,-80.0833
+3703,FL,Florida,Bokeelia,Lee,26.662726,-82.140064
+3704,FL,Florida,Bonifay,Holmes,30.846369,-85.689962
+3705,FL,Florida,"Bonita Springs",Lee,26.3869,-81.733
+3706,FL,Florida,Bostwick,Putnam,29.773889,-81.637222
+3707,FL,Florida,"Bowling Green",Hardee,27.627738,-81.845058
+3708,FL,Florida,"Boynton Beach","Palm Beach",26.525,-80.0666
+3709,FL,Florida,Bradenton,Manatee,27.502778,-82.513889
+3710,FL,Florida,"Bradenton Beach",Manatee,27.515149,-82.721027
+3711,FL,Florida,Bradley,Polk,27.791389,-81.858333
+3712,FL,Florida,Brandon,Hillsborough,27.9378,-82.2861
+3713,FL,Florida,Branford,Suwannee,29.939472,-82.899288
+3714,FL,Florida,Bristol,Liberty,30.422279,-84.946558
+3715,FL,Florida,Bronson,Levy,29.460952,-82.635644
+3716,FL,Florida,Brooker,Bradford,29.919028,-82.295634
+3717,FL,Florida,Brooksville,Hernando,28.565805,-82.373674
+3718,FL,Florida,Bryant,"Palm Beach",26.858889,-80.633889
+3719,FL,Florida,Bryceville,Nassau,30.419274,-81.972397
+3720,FL,Florida,Bunnell,Flagler,29.45616,-81.324431
+3721,FL,Florida,Bushnell,Sumter,28.661062,-82.155297
+3722,FL,Florida,Callahan,Nassau,30.551958,-81.814465
+3723,FL,Florida,Campbellton,Jackson,30.95629,-85.376596
+3724,FL,Florida,"Canal Point","Palm Beach",26.859279,-80.629931
+3725,FL,Florida,Candler,Marion,29.071111,-81.968333
+3726,FL,Florida,Cantonment,Escambia,30.614253,-87.325052
+3727,FL,Florida,"Cape Canaveral",Brevard,28.39034,-80.604267
+3728,FL,Florida,"Cape Coral",Lee,26.57746,-81.952243
+3729,FL,Florida,Captiva,Lee,26.750541,-82.261017
+3730,FL,Florida,Carrabelle,Franklin,29.869205,-84.635845
+3731,FL,Florida,Caryville,Washington,30.796878,-85.799787
+3732,FL,Florida,Cassadaga,Volusia,28.966111,-81.236111
+3733,FL,Florida,Casselberry,Seminole,28.661671,-81.312215
+3734,FL,Florida,"Cedar Key",Levy,29.171006,-83.016793
+3735,FL,Florida,"Center Hill",Sumter,28.663484,-81.996289
+3736,FL,Florida,Century,Escambia,30.968742,-87.321582
+3737,FL,Florida,Chattahoochee,Gadsden,30.683394,-84.828044
+3738,FL,Florida,Chiefland,Levy,29.483243,-82.880896
+3739,FL,Florida,Chipley,Washington,30.710658,-85.548646
+3740,FL,Florida,Chokoloskee,Collier,25.8125,-81.362222
+3741,FL,Florida,Christmas,Orange,28.546244,-81.01157
+3742,FL,Florida,Citra,Marion,29.39182,-82.106222
+3743,FL,Florida,Clarcona,Orange,28.6125,-81.498889
+3744,FL,Florida,Clarksville,Calhoun,30.356834,-85.189806
+3745,FL,Florida,Clearwater,Pinellas,27.9799,-82.7806
+3746,FL,Florida,"Clearwater Beach",Pinellas,27.9831,-82.8229
+3747,FL,Florida,Clermont,Lake,28.552541,-81.757407
+3748,FL,Florida,Clewiston,Hendry,26.717171,-80.949249
+3749,FL,Florida,Cocoa,Brevard,28.367183,-80.746455
+3750,FL,Florida,"Cocoa Beach",Brevard,28.332451,-80.612066
+3751,FL,Florida,"Coconut Creek",Broward,26.2441,-80.2066
+3752,FL,Florida,Coleman,Sumter,28.799444,-82.070278
+3753,FL,Florida,Copeland,Collier,25.953333,-81.356111
+3754,FL,Florida,Cortez,Manatee,27.472686,-82.700642
+3755,FL,Florida,Cottondale,Jackson,30.800359,-85.384672
+3756,FL,Florida,Crawfordville,Wakulla,30.175833,-84.375278
+3757,FL,Florida,"Crescent City",Putnam,29.445438,-81.557909
+3758,FL,Florida,Crestview,Okaloosa,30.77061,-86.553678
+3759,FL,Florida,"Cross City",Dixie,29.634167,-83.125278
+3760,FL,Florida,"Crystal Beach",Pinellas,28.091111,-82.78
+3761,FL,Florida,"Crystal River",Citrus,28.9593,-82.6259
+3762,FL,Florida,"Crystal Springs",Pasco,28.181111,-82.157778
+3763,FL,Florida,Cypress,Jackson,30.713056,-85.073889
+3764,FL,Florida,"Dade City",Pasco,28.4297,-82.2082
+3765,FL,Florida,Dania,Broward,26.047557,-80.144728
+3766,FL,Florida,Davenport,Polk,28.22,-81.6205
+3767,FL,Florida,Day,Lafayette,30.149666,-83.285052
+3768,FL,Florida,"Daytona Beach",Volusia,29.201168,-81.037071
+3769,FL,Florida,"De Leon Springs",Volusia,29.116592,-81.348762
+3770,FL,Florida,Debary,Volusia,28.884573,-81.306506
+3771,FL,Florida,"Deerfield Beach",Broward,26.309556,-80.099173
+3772,FL,Florida,"Defuniak Springs",Walton,30.751783,-86.138006
+3773,FL,Florida,Deland,Volusia,29.02659,-81.334853
+3774,FL,Florida,"Delray Beach","Palm Beach",26.456445,-80.079321
+3775,FL,Florida,Deltona,Volusia,28.898897,-81.247307
+3776,FL,Florida,Destin,Okaloosa,30.392,-86.4834
+3777,FL,Florida,"Doctors Inlet",Clay,30.1,-81.776389
+3778,FL,Florida,Dover,Hillsborough,27.991975,-82.213845
+3779,FL,Florida,Dundee,Polk,28.019412,-81.621207
+3780,FL,Florida,Dunedin,Pinellas,28.019444,-82.771944
+3781,FL,Florida,Dunnellon,Citrus,28.9965,-82.509
+3782,FL,Florida,Dunnellon,Marion,29.0488,-82.4611
+3783,FL,Florida,Durant,Hillsborough,27.908333,-82.186389
+3784,FL,Florida,"Eagle Lake",Polk,27.978661,-81.756357
+3785,FL,Florida,Earleton,Alachua,29.722159,-82.113762
+3786,FL,Florida,"East Palatka",Putnam,29.660861,-81.587879
+3787,FL,Florida,"Eastlake Weir",Marion,29.02,-81.908333
+3788,FL,Florida,Eastpoint,Franklin,29.733906,-84.8701
+3789,FL,Florida,"Eaton Park",Polk,28.008333,-81.907778
+3790,FL,Florida,Ebro,Washington,30.435181,-85.888066
+3791,FL,Florida,Edgar,Putnam,29.623611,-81.890556
+3792,FL,Florida,Edgewater,Volusia,28.981801,-80.910344
+3793,FL,Florida,"Eglin Afb",Okaloosa,30.479409,-86.615958
+3794,FL,Florida,"El Jobean",Charlotte,26.97608,-82.19957
+3795,FL,Florida,Elfers,Pasco,28.216389,-82.7225
+3796,FL,Florida,Elkton,"Saint Johns",29.788243,-81.46199
+3797,FL,Florida,Ellenton,Manatee,27.53818,-82.5006
+3798,FL,Florida,Englewood,Charlotte,26.92504,-82.311731
+3799,FL,Florida,Englewood,Sarasota,26.966743,-82.359886
+3800,FL,Florida,Estero,Lee,26.435052,-81.810244
+3801,FL,Florida,Eustis,Lake,28.857686,-81.64513
+3802,FL,Florida,"Everglades City",Collier,25.859722,-81.380556
+3803,FL,Florida,Evinston,Alachua,29.486667,-82.231389
+3804,FL,Florida,Fairfield,Marion,29.366667,-82.251389
+3805,FL,Florida,Fedhaven,Polk,27.872778,-81.471389
+3806,FL,Florida,Felda,Hendry,26.539444,-81.435833
+3807,FL,Florida,Fellsmere,"Indian River",27.764273,-80.601947
+3808,FL,Florida,"Fernandina Beach",Nassau,30.635388,-81.468829
+3809,FL,Florida,Ferndale,Lake,28.6,-81.674167
+3810,FL,Florida,"Flagler Beach",Flagler,29.474978,-81.130288
+3811,FL,Florida,"Fleming Island",Clay,30.107,-81.7167
+3812,FL,Florida,Florahome,Putnam,29.758105,-81.862224
+3813,FL,Florida,"Floral City",Citrus,28.749722,-82.296944
+3814,FL,Florida,"Fort Lauderdale",Broward,26.121561,-80.128778
+3815,FL,Florida,"Fort Mc Coy",Marion,29.279554,-81.887757
+3816,FL,Florida,"Fort Meade",Polk,27.746356,-81.782346
+3817,FL,Florida,"Fort Myers",Lee,26.620403,-81.8725
+3818,FL,Florida,"Fort Myers Beach",Lee,26.451952,-81.924543
+3819,FL,Florida,"Fort Ogden","De Soto",27.086944,-81.9525
+3820,FL,Florida,"Fort Pierce","Saint Lucie",27.438233,-80.443963
+3821,FL,Florida,"Fort Walton Beach",Okaloosa,30.447297,-86.627487
+3822,FL,Florida,"Fort White",Columbia,29.92073,-82.687938
+3823,FL,Florida,Fountain,Bay,30.475327,-85.429272
+3824,FL,Florida,Freeport,Walton,30.489596,-86.168441
+3825,FL,Florida,Frostproof,Polk,27.721058,-81.514778
+3826,FL,Florida,"Fruitland Park",Lake,28.863949,-81.899755
+3827,FL,Florida,Gainesville,Alachua,29.645029,-82.310046
+3828,FL,Florida,Geneva,Seminole,28.750299,-81.11137
+3829,FL,Florida,Georgetown,Putnam,29.403315,-81.629783
+3830,FL,Florida,Gibsonton,Hillsborough,27.841059,-82.369831
+3831,FL,Florida,"Glen Saint Mary",Baker,30.286058,-82.204056
+3832,FL,Florida,Glenwood,Volusia,29.085833,-81.354444
+3833,FL,Florida,Goldenrod,Seminole,28.612778,-81.293889
+3834,FL,Florida,Gonzalez,Escambia,30.581389,-87.291389
+3835,FL,Florida,Goodland,Collier,25.924444,-81.645833
+3836,FL,Florida,Gotha,Orange,28.5275,-81.523333
+3837,FL,Florida,Graceville,Jackson,30.942601,-85.513622
+3838,FL,Florida,Graham,Bradford,29.86,-82.218611
+3839,FL,Florida,"Grand Island",Lake,28.886552,-81.739093
+3840,FL,Florida,"Grand Ridge",Jackson,30.714831,-85.020954
+3841,FL,Florida,Grandin,Putnam,29.7275,-81.918611
+3842,FL,Florida,Grant,Brevard,27.928611,-80.526667
+3843,FL,Florida,"Green Cove Springs",Clay,30.00425,-81.726182
+3844,FL,Florida,Greensboro,Gadsden,30.569167,-84.743333
+3845,FL,Florida,Greenville,Madison,30.451199,-83.647397
+3846,FL,Florida,Greenwood,Jackson,30.852506,-85.15549
+3847,FL,Florida,Gretna,Gadsden,30.616944,-84.66
+3848,FL,Florida,Groveland,Lake,28.564445,-81.874526
+3849,FL,Florida,"Gulf Breeze","Santa Rosa",30.3847,-87.043875
+3850,FL,Florida,"Gulf Hammock",Levy,29.252778,-82.731111
+3851,FL,Florida,"Haines City",Polk,28.095073,-81.614712
+3852,FL,Florida,Hallandale,Broward,25.980833,-80.148611
+3853,FL,Florida,Hampton,Bradford,29.857511,-82.148347
+3854,FL,Florida,Hastings,"Saint Johns",29.705147,-81.490908
+3855,FL,Florida,Havana,Gadsden,30.609242,-84.41434
+3856,FL,Florida,Hawthorne,Alachua,29.573998,-82.105625
+3857,FL,Florida,Hernando,Citrus,28.899722,-82.374722
+3858,FL,Florida,Hialeah,Miami-dade,25.905,-80.3049
+3859,FL,Florida,"High Springs",Alachua,29.841022,-82.615628
+3860,FL,Florida,"Highland City",Polk,27.965,-81.878056
+3861,FL,Florida,Hilliard,Nassau,30.688367,-81.93453
+3862,FL,Florida,"Hobe Sound",Martin,27.081306,-80.150851
+3863,FL,Florida,Holder,Citrus,28.966667,-82.420833
+3864,FL,Florida,Holiday,Pasco,28.191273,-82.727935
+3865,FL,Florida,Hollister,Putnam,29.6225,-81.813889
+3866,FL,Florida,Hollywood,Broward,26.007011,-80.121931
+3867,FL,Florida,"Holmes Beach",Manatee,27.466667,-82.704167
+3868,FL,Florida,Holt,Okaloosa,30.72522,-86.704638
+3869,FL,Florida,Homeland,Polk,27.8175,-81.824722
+3870,FL,Florida,Homestead,Miami-dade,25.476639,-80.483853
+3871,FL,Florida,Homosassa,Citrus,28.7488,-82.5318
+3872,FL,Florida,"Homosassa Springs",Citrus,28.803333,-82.576111
+3873,FL,Florida,"Horseshoe Beach",Dixie,29.48689,-83.261587
+3874,FL,Florida,Hosford,Liberty,30.363875,-84.805433
+3875,FL,Florida,"Howey In The Hills",Lake,28.709818,-81.789983
+3876,FL,Florida,Hudson,Pasco,28.364763,-82.675669
+3877,FL,Florida,"Hurlburt Field",Okaloosa,30.428333,-86.688333
+3878,FL,Florida,Immokalee,Collier,26.3751,-81.3678
+3879,FL,Florida,Indialantic,Brevard,28.109059,-80.578718
+3880,FL,Florida,"Indian Lake Estates",Polk,27.813611,-81.378611
+3881,FL,Florida,"Indian Rocks Beach",Pinellas,27.884,-82.8455
+3882,FL,Florida,Indiantown,Martin,27.061461,-80.480277
+3883,FL,Florida,Inglis,Levy,29.03,-82.668889
+3884,FL,Florida,"Intercession City",Osceola,28.262222,-81.508056
+3885,FL,Florida,Interlachen,Putnam,29.627001,-81.889432
+3886,FL,Florida,Inverness,Citrus,28.8337,-82.2896
+3887,FL,Florida,Islamorada,Monroe,24.923331,-80.629953
+3888,FL,Florida,"Island Grove",Alachua,29.453333,-82.106667
+3889,FL,Florida,Istachatta,Hernando,28.659722,-82.277778
+3890,FL,Florida,Jacksonville,Duval,30.3163,-81.4175
+3891,FL,Florida,Jacksonville,"Saint Johns",30.0759,-81.5803
+3892,FL,Florida,"Jacksonville Beach",Duval,30.294444,-81.393333
+3893,FL,Florida,Jasper,Hamilton,30.502914,-82.932186
+3894,FL,Florida,Jay,"Santa Rosa",30.898488,-87.133237
+3895,FL,Florida,Jennings,Hamilton,30.548243,-83.134971
+3896,FL,Florida,"Jensen Beach",Martin,27.235568,-80.227656
+3897,FL,Florida,Jupiter,"Palm Beach",26.933938,-80.120091
+3898,FL,Florida,Kathleen,Polk,28.205224,-82.043499
+3899,FL,Florida,Kenansville,Osceola,27.876698,-81.050049
+3900,FL,Florida,"Key Biscayne",Miami-dade,25.692104,-80.162475
+3901,FL,Florida,"Key Colony Beach",Monroe,24.7205,-81.0188
+3902,FL,Florida,"Key Largo",Monroe,25.140214,-80.406084
+3903,FL,Florida,"Key West",Monroe,24.565313,-81.762179
+3904,FL,Florida,"Keystone Heights",Clay,29.797579,-81.989885
+3905,FL,Florida,Killarney,Orange,28.546944,-81.650556
+3906,FL,Florida,Kissimmee,Osceola,28.305056,-81.424208
+3907,FL,Florida,Kissimmee,Polk,28.124786,-81.458984
+3908,FL,Florida,"La Crosse",Alachua,29.843056,-82.405
+3909,FL,Florida,Labelle,Hendry,26.732093,-81.434027
+3910,FL,Florida,Lacoochee,Pasco,28.465556,-82.172222
+3911,FL,Florida,"Lady Lake",Lake,28.9172,-81.923
+3912,FL,Florida,"Lake Alfred",Polk,28.089483,-81.727138
+3913,FL,Florida,"Lake Butler",Union,30.003485,-82.382796
+3914,FL,Florida,"Lake City",Columbia,30.0949,-82.7117
+3915,FL,Florida,"Lake Como",Putnam,29.483611,-81.573056
+3916,FL,Florida,"Lake Geneva",Clay,29.771944,-82.010278
+3917,FL,Florida,"Lake Hamilton",Polk,28.044167,-81.628056
+3918,FL,Florida,"Lake Harbor","Palm Beach",26.693333,-80.805
+3919,FL,Florida,"Lake Helen",Volusia,28.980567,-81.233367
+3920,FL,Florida,"Lake Mary",Seminole,28.752352,-81.338075
+3921,FL,Florida,"Lake Monroe",Seminole,28.824444,-81.327222
+3922,FL,Florida,"Lake Panasoffkee",Sumter,28.795261,-82.136279
+3923,FL,Florida,"Lake Placid",Highlands,27.294474,-81.364918
+3924,FL,Florida,"Lake Wales",Polk,27.903734,-81.548805
+3925,FL,Florida,"Lake Worth","Palm Beach",26.6155,-80.1469
+3926,FL,Florida,Lakeland,Polk,28.038134,-81.939153
+3927,FL,Florida,Lamont,Jefferson,30.365341,-83.900266
+3928,FL,Florida,"Lanark Village",Franklin,29.883333,-84.595833
+3929,FL,Florida,"Land O Lakes",Pasco,28.2682,-82.465
+3930,FL,Florida,Largo,Pinellas,27.9163,-82.7996
+3931,FL,Florida,Laurel,Sarasota,27.13,-82.453333
+3932,FL,Florida,"Laurel Hill",Okaloosa,30.95236,-86.400323
+3933,FL,Florida,Lawtey,Bradford,30.047164,-82.105544
+3934,FL,Florida,Lecanto,Citrus,28.9303,-82.4905
+3935,FL,Florida,Lee,Madison,30.397863,-83.284392
+3936,FL,Florida,Leesburg,Lake,28.807965,-81.885772
+3937,FL,Florida,"Lehigh Acres",Lee,26.615302,-81.61046
+3938,FL,Florida,"Lighthouse Point",Broward,26.278698,-80.112439
+3939,FL,Florida,Lithia,Hillsborough,27.829349,-82.135679
+3940,FL,Florida,"Live Oak",Suwannee,30.286622,-83.024994
+3941,FL,Florida,Lloyd,Jefferson,30.477222,-84.021944
+3942,FL,Florida,Lochloosa,Alachua,29.511389,-82.100556
+3943,FL,Florida,"Long Key",Monroe,24.624444,-82.863333
+3944,FL,Florida,"Longboat Key",Manatee,27.38669,-82.638403
+3945,FL,Florida,Longwood,Seminole,28.711994,-81.355238
+3946,FL,Florida,Lorida,Highlands,27.414952,-81.196533
+3947,FL,Florida,Loughman,Polk,28.241667,-81.566944
+3948,FL,Florida,Lowell,Marion,29.330278,-82.191667
+3949,FL,Florida,Loxahatchee,"Palm Beach",26.738295,-80.276007
+3950,FL,Florida,Lulu,Columbia,30.07544,-82.538481
+3951,FL,Florida,Lutz,Hillsborough,28.143,-82.4752
+3952,FL,Florida,"Lynn Haven",Bay,30.236165,-85.646658
+3953,FL,Florida,Macclenny,Baker,30.273671,-82.132475
+3954,FL,Florida,Madison,Madison,30.480209,-83.406678
+3955,FL,Florida,Maitland,Orange,28.631284,-81.354598
+3956,FL,Florida,Malabar,Brevard,28.003333,-80.565833
+3957,FL,Florida,Malone,Jackson,30.960245,-85.163874
+3958,FL,Florida,Mango,Hillsborough,27.979444,-82.306667
+3959,FL,Florida,Marathon,Monroe,24.727919,-81.038581
+3960,FL,Florida,"Marathon Shores",Monroe,24.7117,-81.091
+3961,FL,Florida,"Marco Island",Collier,25.9392,-81.7174
+3962,FL,Florida,Marianna,Jackson,30.758587,-85.229367
+3963,FL,Florida,"Mary Esther",Okaloosa,30.412186,-86.712719
+3964,FL,Florida,Mascotte,Lake,28.578056,-81.886944
+3965,FL,Florida,Mayo,Lafayette,30.039979,-83.146208
+3966,FL,Florida,"Mc Alpin",Suwannee,30.150899,-82.966182
+3967,FL,Florida,"Mc David",Escambia,30.870043,-87.449628
+3968,FL,Florida,"Mc Intosh",Marion,29.450556,-82.22
+3969,FL,Florida,Melbourne,Brevard,28.069132,-80.620015
+3970,FL,Florida,"Melbourne Beach",Brevard,28.021923,-80.538936
+3971,FL,Florida,Melrose,Putnam,29.732456,-82.027863
+3972,FL,Florida,"Merritt Island",Brevard,28.328607,-80.67818
+3973,FL,Florida,"Mexico Beach",Bay,29.947778,-85.418056
+3974,FL,Florida,Miami,Miami-dade,25.779,-80.1982
+3975,FL,Florida,"Miami Beach",Miami-dade,25.7611,-80.1403
+3976,FL,Florida,Micanopy,Alachua,29.526029,-82.279698
+3977,FL,Florida,"Mid Florida",Seminole,28.7461,-81.6672
+3978,FL,Florida,Middleburg,Clay,30.068611,-81.860556
+3979,FL,Florida,Midway,Gadsden,30.495278,-84.454444
+3980,FL,Florida,Milligan,Okaloosa,30.752222,-86.640833
+3981,FL,Florida,Milton,"Santa Rosa",30.660413,-87.047278
+3982,FL,Florida,Mims,Brevard,28.697383,-80.866278
+3983,FL,Florida,Minneola,Lake,28.574167,-81.746389
+3984,FL,Florida,"Miramar Beach",Walton,30.3823,-86.3509
+3985,FL,Florida,Molino,Escambia,30.723889,-87.314167
+3986,FL,Florida,Monticello,Jefferson,30.519681,-83.892454
+3987,FL,Florida,Montverde,Lake,28.597153,-81.679368
+3988,FL,Florida,"Moore Haven",Glades,26.832749,-81.218776
+3989,FL,Florida,Morriston,Levy,29.28126,-82.491668
+3990,FL,Florida,"Mossy Head",Walton,30.761667,-86.322778
+3991,FL,Florida,"Mount Dora",Lake,28.802222,-81.644722
+3992,FL,Florida,Mulberry,Polk,27.90202,-82.001489
+3993,FL,Florida,Murdock,Charlotte,27.0125,-82.146389
+3994,FL,Florida,"Myakka City",Manatee,27.364764,-82.184897
+3995,FL,Florida,Nalcrest,Polk,27.858056,-81.425278
+3996,FL,Florida,Naples,Collier,26.1377,-81.7966
+3997,FL,Florida,Navarre,"Santa Rosa",30.590261,-86.937102
+3998,FL,Florida,"Neptune Beach",Duval,30.31548,-81.405123
+3999,FL,Florida,"New Port Richey",Pasco,28.232574,-82.732721
+4000,FL,Florida,"New Smyrna Beach",Volusia,29.024672,-80.958436
+4001,FL,Florida,Newberry,Alachua,29.660906,-82.585188
+4002,FL,Florida,Niceville,Okaloosa,30.495771,-86.41446
+4003,FL,Florida,Nichols,Polk,27.89,-82.031667
+4004,FL,Florida,Nobleton,Hernando,28.645278,-82.264167
+4005,FL,Florida,Nocatee,"De Soto",27.16,-81.8825
+4006,FL,Florida,Nokomis,Sarasota,27.118889,-82.444444
+4007,FL,Florida,Noma,Holmes,30.981944,-85.618611
+4008,FL,Florida,"North Fort Myers",Lee,26.678138,-81.909632
+4009,FL,Florida,"North Miami Beach",Miami-dade,25.936086,-80.135141
+4010,FL,Florida,"North Palm Beach","Palm Beach",26.828854,-80.060334
+4011,FL,Florida,"North Port",Sarasota,27.0781,-82.1735
+4012,FL,Florida,"O Brien",Suwannee,30.038114,-82.93005
+4013,FL,Florida,"Oak Hill",Volusia,28.869985,-80.855063
+4014,FL,Florida,Oakland,Orange,28.554722,-81.633333
+4015,FL,Florida,Ocala,Marion,29.1981,-82.0974
+4016,FL,Florida,Ochopee,Miami-dade,25.981111,-81.121111
+4017,FL,Florida,Ocklawaha,Marion,29.064308,-81.88569
+4018,FL,Florida,Ocoee,Orange,28.583685,-81.532618
+4019,FL,Florida,Odessa,Hillsborough,28.142072,-82.590506
+4020,FL,Florida,Okahumpka,Lake,28.737257,-81.883949
+4021,FL,Florida,Okeechobee,Okeechobee,27.311532,-80.847853
+4022,FL,Florida,"Old Town",Dixie,29.624558,-83.057393
+4023,FL,Florida,Oldsmar,Pinellas,28.046035,-82.684778
+4024,FL,Florida,Olustee,Baker,30.203889,-82.428889
+4025,FL,Florida,Ona,Hardee,27.412657,-81.92805
+4026,FL,Florida,Oneco,Manatee,27.447222,-82.546389
+4027,FL,Florida,"Opa Locka",Miami-dade,25.909662,-80.247004
+4028,FL,Florida,"Orange City",Volusia,28.945291,-81.299524
+4029,FL,Florida,"Orange Lake",Marion,29.425,-82.216667
+4030,FL,Florida,"Orange Park",Clay,30.1044,-81.7145
+4031,FL,Florida,"Orange Springs",Marion,29.505833,-81.945556
+4032,FL,Florida,Orlando,Brevard,28.498821,-80.58248
+4033,FL,Florida,Orlando,Orange,28.539882,-81.372668
+4034,FL,Florida,"Ormond Beach",Volusia,29.2855,-81.0561
+4035,FL,Florida,Osprey,Sarasota,27.18384,-82.485339
+4036,FL,Florida,Osteen,Volusia,28.842617,-81.156224
+4037,FL,Florida,"Otter Creek",Levy,29.324722,-82.771944
+4038,FL,Florida,Oviedo,Seminole,28.669722,-81.208333
+4039,FL,Florida,Oxford,Sumter,28.927222,-82.0375
+4040,FL,Florida,Ozona,Pinellas,28.069167,-82.775833
+4041,FL,Florida,Pahokee,"Palm Beach",26.814199,-80.662897
+4042,FL,Florida,Paisley,Lake,28.999323,-81.503009
+4043,FL,Florida,Palatka,Putnam,29.657748,-81.659452
+4044,FL,Florida,"Palm Bay",Brevard,28.014605,-80.599087
+4045,FL,Florida,"Palm Beach","Palm Beach",26.72065,-80.038825
+4046,FL,Florida,"Palm Beach Gardens","Palm Beach",26.844373,-80.087304
+4047,FL,Florida,"Palm City",Martin,27.165646,-80.291646
+4048,FL,Florida,"Palm Coast",Flagler,29.5847,-81.208
+4049,FL,Florida,"Palm Harbor",Pinellas,28.077778,-82.763889
+4050,FL,Florida,Palmdale,Glades,26.945,-81.316389
+4051,FL,Florida,Palmetto,Manatee,27.521111,-82.5725
+4052,FL,Florida,Panacea,Wakulla,30.015322,-84.391212
+4053,FL,Florida,"Panama City",Bay,30.160624,-85.649403
+4054,FL,Florida,"Panama City Beach",Bay,30.194623,-85.791984
+4055,FL,Florida,Parrish,Manatee,27.557162,-82.396009
+4056,FL,Florida,"Patrick Afb",Brevard,28.259896,-80.607126
+4057,FL,Florida,Paxton,Walton,30.981389,-86.3075
+4058,FL,Florida,"Pembroke Pines",Broward,26.022927,-80.297441
+4059,FL,Florida,"Penney Farms",Clay,29.979444,-81.810556
+4060,FL,Florida,Pensacola,Escambia,30.422282,-87.224763
+4061,FL,Florida,Perry,Taylor,30.097489,-83.585021
+4062,FL,Florida,Pierson,Volusia,29.222596,-81.43533
+4063,FL,Florida,Pineland,Lee,26.660278,-82.153611
+4064,FL,Florida,"Pinellas Park",Pinellas,27.8387,-82.7151
+4065,FL,Florida,Pinetta,Madison,30.599703,-83.340463
+4066,FL,Florida,Placida,Charlotte,26.819301,-82.261638
+4067,FL,Florida,"Plant City",Hillsborough,28.0168,-82.1289
+4068,FL,Florida,Plymouth,Orange,28.691944,-81.5475
+4069,FL,Florida,"Point Washington",Walton,30.37,-86.115
+4070,FL,Florida,"Polk City",Polk,28.19867,-81.808282
+4071,FL,Florida,"Pomona Park",Putnam,29.502106,-81.630739
+4072,FL,Florida,"Pompano Beach",Broward,26.231529,-80.12346
+4073,FL,Florida,"Ponce De Leon",Walton,30.704146,-85.954633
+4074,FL,Florida,"Ponte Vedra","Saint Johns",30.098,-81.4395
+4075,FL,Florida,"Ponte Vedra Beach","Saint Johns",30.239444,-81.385833
+4076,FL,Florida,"Port Charlotte",Charlotte,26.98268,-82.141173
+4077,FL,Florida,"Port Orange",Volusia,29.121389,-80.976667
+4078,FL,Florida,"Port Richey",Pasco,28.301148,-82.692714
+4079,FL,Florida,"Port Saint Joe",Gulf,29.83539,-85.298787
+4080,FL,Florida,"Port Saint Lucie","Saint Lucie",27.288895,-80.297971
+4081,FL,Florida,"Port Salerno",Martin,27.143889,-80.200833
+4082,FL,Florida,"Punta Gorda",Charlotte,26.915163,-82.053166
+4083,FL,Florida,"Putnam Hall",Putnam,29.736389,-81.959444
+4084,FL,Florida,Quincy,Gadsden,30.586675,-84.60945
+4085,FL,Florida,Raiford,Union,30.063611,-82.236667
+4086,FL,Florida,Reddick,Marion,29.375352,-82.243995
+4087,FL,Florida,"River Ranch",Polk,27.8825,-81.474167
+4088,FL,Florida,Riverview,Hillsborough,27.865833,-82.326667
+4089,FL,Florida,Rockledge,Brevard,28.313441,-80.73193
+4090,FL,Florida,Roseland,"Indian River",27.835556,-80.493333
+4091,FL,Florida,"Rosemary Beach",Walton,30.283333,-86.030556
+4092,FL,Florida,"Rotonda West",Charlotte,26.90039,-82.293778
+4093,FL,Florida,Ruskin,Hillsborough,27.701501,-82.435501
+4094,FL,Florida,"Safety Harbor",Pinellas,28.009608,-82.696658
+4095,FL,Florida,"Saint Augustine","Saint Johns",29.8364,-81.2745
+4096,FL,Florida,"Saint Cloud",Osceola,28.247992,-81.287626
+4097,FL,Florida,"Saint James City",Lee,26.529012,-82.091591
+4098,FL,Florida,"Saint Johns","Saint Johns",30.095578,-81.621701
+4099,FL,Florida,"Saint Leo",Pasco,28.336944,-82.258611
+4100,FL,Florida,"Saint Marks",Wakulla,30.160833,-84.206389
+4101,FL,Florida,"Saint Petersburg",Pinellas,27.772318,-82.638609
+4102,FL,Florida,Salem,Taylor,29.823815,-83.385828
+4103,FL,Florida,"San Antonio",Pasco,28.337139,-82.288237
+4104,FL,Florida,"San Mateo",Putnam,29.588827,-81.5921
+4105,FL,Florida,Sanderson,Baker,30.302536,-82.337741
+4106,FL,Florida,Sanford,Seminole,28.801307,-81.285044
+4107,FL,Florida,Sanibel,Lee,26.4514,-82.086825
+4108,FL,Florida,"Santa Rosa Beach",Walton,30.365883,-86.245809
+4109,FL,Florida,Sarasota,Manatee,27.407235,-82.530299
+4110,FL,Florida,Sarasota,Sarasota,27.3348,-82.5375
+4111,FL,Florida,"Satellite Beach",Brevard,28.178571,-80.598671
+4112,FL,Florida,Satsuma,Putnam,29.559354,-81.640596
+4113,FL,Florida,Scottsmoor,Brevard,28.766667,-80.878333
+4114,FL,Florida,Sebastian,Brevard,27.878146,-80.516051
+4115,FL,Florida,Sebastian,"Indian River",27.790082,-80.478432
+4116,FL,Florida,Sebring,Highlands,27.492391,-81.435712
+4117,FL,Florida,Seffner,Hillsborough,27.983333,-82.275833
+4118,FL,Florida,Seminole,Pinellas,27.8438,-82.7947
+4119,FL,Florida,Seville,Volusia,29.320084,-81.527894
+4120,FL,Florida,"Shady Grove",Taylor,30.287778,-83.631944
+4121,FL,Florida,Shalimar,Okaloosa,30.445565,-86.571724
+4122,FL,Florida,Sharpes,Brevard,28.431944,-80.760278
+4123,FL,Florida,"Silver Springs",Marion,29.2076,-81.9219
+4124,FL,Florida,Sneads,Jackson,30.727619,-84.933655
+4125,FL,Florida,Sopchoppy,Wakulla,30.071353,-84.454877
+4126,FL,Florida,Sorrento,Lake,28.803519,-81.532317
+4127,FL,Florida,"South Bay","Palm Beach",26.670126,-80.731214
+4128,FL,Florida,Sparr,Marion,29.338333,-82.112778
+4129,FL,Florida,"Spring Hill",Hernando,28.46551,-82.598084
+4130,FL,Florida,"Spring Hill",Pasco,28.405084,-82.530148
+4131,FL,Florida,Starke,Bradford,29.958299,-82.118518
+4132,FL,Florida,Steinhatchee,Taylor,29.673871,-83.372332
+4133,FL,Florida,Stuart,Martin,27.196834,-80.253786
+4134,FL,Florida,Sumatra,Liberty,30.02,-84.979167
+4135,FL,Florida,Summerfield,Marion,28.9958,-82.0214
+4136,FL,Florida,"Summerland Key",Monroe,24.655322,-81.493564
+4137,FL,Florida,Sumterville,Sumter,28.744722,-82.063611
+4138,FL,Florida,"Sun City",Hillsborough,27.678056,-82.478889
+4139,FL,Florida,"Sun City Center",Hillsborough,27.7205,-82.4333
+4140,FL,Florida,Suwannee,Dixie,29.328611,-83.144444
+4141,FL,Florida,Sydney,Hillsborough,27.963056,-82.2075
+4142,FL,Florida,Tallahassee,Leon,30.428563,-84.259337
+4143,FL,Florida,Tallevast,Manatee,27.401389,-82.543056
+4144,FL,Florida,Tampa,"",28.0879,-82.4593
+4145,FL,Florida,Tampa,Hillsborough,27.9428,-82.4549
+4146,FL,Florida,Tangerine,Orange,28.764722,-81.630833
+4147,FL,Florida,"Tarpon Springs",Pinellas,28.145833,-82.756944
+4148,FL,Florida,Tavares,Lake,28.801027,-81.73405
+4149,FL,Florida,Tavernier,Monroe,25.010788,-80.521816
+4150,FL,Florida,Telogia,Liberty,30.350556,-84.819167
+4151,FL,Florida,"Terra Ceia",Manatee,27.579167,-82.580556
+4152,FL,Florida,"The Villages",Sumter,28.9335,-82.0046
+4153,FL,Florida,Thonotosassa,Hillsborough,28.061747,-82.308212
+4154,FL,Florida,Titusville,Brevard,28.569712,-80.819141
+4155,FL,Florida,Trenton,Gilchrist,29.626375,-82.809345
+4156,FL,Florida,Trilby,Pasco,28.462222,-82.195
+4157,FL,Florida,Umatilla,Lake,28.931443,-81.671653
+4158,FL,Florida,Valparaiso,Okaloosa,30.509197,-86.500914
+4159,FL,Florida,Valrico,Hillsborough,27.912435,-82.246557
+4160,FL,Florida,"Vanderbilt Beach",Collier,26.1627,-81.7912
+4161,FL,Florida,Venice,Sarasota,27.0993,-82.4489
+4162,FL,Florida,Venus,Highlands,27.13463,-81.359412
+4163,FL,Florida,Vernon,Washington,30.62668,-85.755286
+4164,FL,Florida,"Vero Beach","Indian River",27.632985,-80.403075
+4165,FL,Florida,Wabasso,"Indian River",27.748056,-80.436389
+4166,FL,Florida,Wacissa,Jefferson,30.358333,-83.987222
+4167,FL,Florida,Waldo,Alachua,29.787096,-82.160791
+4168,FL,Florida,Wauchula,Hardee,27.551742,-81.807388
+4169,FL,Florida,Wausau,Washington,30.631944,-85.588889
+4170,FL,Florida,Waverly,Polk,27.978611,-81.614167
+4171,FL,Florida,Webster,Sumter,28.577492,-82.092975
+4172,FL,Florida,Weirsdale,Marion,28.978182,-81.893168
+4173,FL,Florida,Welaka,Putnam,29.478889,-81.671667
+4174,FL,Florida,Wellborn,Suwannee,30.179624,-82.850532
+4175,FL,Florida,"Wesley Chapel",Pasco,28.210365,-82.288956
+4176,FL,Florida,"West Palm Beach","Palm Beach",26.713956,-80.065874
+4177,FL,Florida,Westville,Holmes,30.874689,-85.912973
+4178,FL,Florida,Wewahitchka,Calhoun,30.263241,-85.206467
+4179,FL,Florida,Wewahitchka,Gulf,30.093255,-85.20483
+4180,FL,Florida,"White Springs",Hamilton,30.338749,-82.776453
+4181,FL,Florida,Wildwood,Sumter,28.845353,-82.03473
+4182,FL,Florida,Williston,Levy,29.397737,-82.485601
+4183,FL,Florida,Wimauma,Hillsborough,27.701497,-82.315136
+4184,FL,Florida,Windermere,Orange,28.50061,-81.535411
+4185,FL,Florida,"Winter Beach","Indian River",27.718889,-80.420833
+4186,FL,Florida,"Winter Garden",Orange,28.4867,-81.6051
+4187,FL,Florida,"Winter Haven",Polk,27.999296,-81.751507
+4188,FL,Florida,"Winter Park",Orange,28.597824,-81.353436
+4189,FL,Florida,"Winter Springs",Seminole,28.683097,-81.281367
+4190,FL,Florida,Woodville,Leon,30.313889,-84.2475
+4191,FL,Florida,"Worthington Springs",Union,29.929167,-82.423611
+4192,FL,Florida,Yalaha,Lake,28.744443,-81.826324
+4193,FL,Florida,Yankeetown,Levy,29.029722,-82.716111
+4194,FL,Florida,Youngstown,Bay,30.326913,-85.516881
+4195,FL,Florida,Yulee,Nassau,30.631667,-81.606667
+4196,FL,Florida,Zellwood,Orange,28.71944,-81.576174
+4197,FL,Florida,Zephyrhills,Pasco,28.2333,-82.1813
+4198,FL,Florida,"Zolfo Springs",Hardee,27.480042,-81.742328

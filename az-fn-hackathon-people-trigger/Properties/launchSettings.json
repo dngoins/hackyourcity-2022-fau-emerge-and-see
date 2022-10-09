@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az_fn_hackathon_people_trigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7130",
+      "launchBrowser": false
+    }
+  }
+}

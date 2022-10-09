@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "LUIS_DroneAidBot",
+  "recognizers": {
+    "en-us": "DroneAidBot.en-us.lu",
+    "": "DroneAidBot.en-us.lu"
+  }
+}

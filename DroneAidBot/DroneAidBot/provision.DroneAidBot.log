@@ -1,0 +1,19 @@
+{
+  "profileName": "DroneAidBot",
+  "jobId": "960018cd-0be8-45e1-86d2-633dcffebf04",
+  "projectId": "60163.55504630742",
+  "time": "2022-10-09T06:57:23.340Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Use the Resource Group: FAU-AR-digitaltwin at eastus2",
+    "> Creating App Registration ...",
+    "Start to add password for App, Id : 99ded3db-8138-4c27-8ec3-2e90e7cb6d76",
+    "> Create App Registration Success! ID: 99ded3db-8138-4c27-8ec3-2e90e7cb6d76",
+    "Deploying Web App Resource ...",
+    "Deploying Bot Resource ...",
+    "Deploying Luis Authoring Resource ...",
+    "Deploying Luis Resource ...",
+    "Provisioning completed successfully!"
+  ]
+}

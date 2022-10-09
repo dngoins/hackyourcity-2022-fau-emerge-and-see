@@ -1,0 +1,53 @@
+[import](common.lg)
+
+# SendActivity_WelcomeNewUser()
+[Activity
+    Text = ${SendActivity_WelcomeNewUser_text()}
+]
+
+# SendActivity_WelcomeNewUser_text()
+
+> Imported: ecb31044e0e5c0b54f49870e6872f158
+- This is DroneAid. Here to assist. You can connect to FPL wifi named: DroneAidWifi to send messages.
+# SendActivity_PsAJ3p()
+[Activity
+    Text = ${SendActivity_WelcomeReturningUser_text()}
+]
+
+# SendActivity_WelcomeReturningUser_text()
+- Drone Aid here to assist. Wifi Name: DroneAidWifi
+# SendActivity_p4LM7j()
+[Activity
+    Text = ${SendActivity_p4LM7j_text()}
+]
+
+# SendActivity_p4LM7j_text()
+- Please answer these following questions:
+# TextInput_Prompt_PR990M()
+[Activity
+    Text = ${TextInput_Prompt_PR990M_text()}
+]
+
+# TextInput_Prompt_PR990M_text()
+- What is your address?
+# NumberInput_Prompt_W7m16s()
+[Activity
+    Text = ${NumberInput_Prompt_W7m16s_text()}
+]
+
+# NumberInput_Prompt_W7m16s_text()
+- How many people are currently with you?
+# ChoiceInput_Prompt_ta4BTv()
+[Activity
+    Text = ${ChoiceInput_Prompt_ta4BTv_text()}
+]
+
+# ChoiceInput_Prompt_ta4BTv_text()
+- Please help us understand your need:
+# SendActivity_Badzbk()
+[Activity
+    Text = ${SendActivity_Badzbk_text()}
+]
+
+# SendActivity_Badzbk_text()
+- Thank you. We are routing your information immediately. Hold on tight someone will be there to assist.
